@@ -1,0 +1,5 @@
+[core]
+    remote = central_remote
+['remote "central_remote"']
+    url = ssh://root@10.100.1.45:2222/home/dvcuser/dvc_storage/
+    
