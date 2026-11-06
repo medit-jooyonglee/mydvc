@@ -1,0 +1,11 @@
+md5: 3a226588c6acded06e3a6f37acbb0655
+frozen: true
+deps:
+- md5: 0f1070cabdcb462009980819d314e8e9
+  size: 22680432
+  hash: md5
+  path: 
+    ssh://root@10.100.1.45:2222/home/dvcuser/dvc_storage/trained-model-teethsegmentation3d-1.0.12.7z
+outs:
+- hash: md5
+  path: trained-model-teethsegmentation3d-1.0.12.7z
